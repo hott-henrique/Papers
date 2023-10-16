@@ -1,4 +1,4 @@
-**Thanks to @guibitten03 for developing the google scholar crawler.**
+**Thanks to [@guibitten03](https://github.com/guibitten03) for the idea and developing the google scholar crawler.**
 
 # Papers
 Crawler to find papers of a given query using Google Scholar.
