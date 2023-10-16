@@ -5,7 +5,7 @@ Crawler to find papers of a given query using Google Scholar.
 
 # Install
 ```bash
-# pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 # Execution
