@@ -1,3 +1,5 @@
+**Thanks to @guibitten03 for developing the google scholar crawler.**
+
 # Papers
 Crawler to find papers of a given query using Google Scholar.
 
